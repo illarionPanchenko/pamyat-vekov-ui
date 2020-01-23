@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d71f5197-b6d4-4c38-a6eb-a7f3d23543d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="d71f5197-b6d4-4c38-a6eb-a7f3d23543d6" name="Default Changelist" comment="initial commit 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +93,7 @@
       <workItem from="1579723149296" duration="639000" />
       <workItem from="1579782154444" duration="2004000" />
       <workItem from="1579804855575" duration="339000" />
-      <workItem from="1579805752363" duration="995000" />
+      <workItem from="1579805752363" duration="1398000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1579806502247</created>
@@ -102,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579806502247</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit 1">
+      <created>1579806890960</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579806890960</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,7 +117,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="initial commit 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit 1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="272" y="23" key="#ESLint" timestamp="1579782257445">
@@ -125,14 +133,18 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="410" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1360.728@0.0.1360.728" timestamp="1579659960500" />
-    <state x="305" y="0" key="CommitChangelistDialog2" timestamp="1579806500869">
+    <state x="305" y="0" key="CommitChangelistDialog2" timestamp="1579806909687">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="305" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1579806500869" />
+    <state x="305" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1579806909687" />
     <state x="376" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1579805757053">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="376" y="189" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1579805757053" />
+    <state x="489" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579806898129">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="489" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1360.728@0.0.1360.728" timestamp="1579806898129" />
     <state x="336" y="162" key="run.anything.popup" timestamp="1579690956700">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
