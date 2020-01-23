@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d71f5197-b6d4-4c38-a6eb-a7f3d23543d6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WjOBzm3dUlmzn40EjFGUZOJPsp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\react-projects\pamyat_vekov" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\react-projects\pamyat_vekov\src\components\contacts" />
+      <recent name="D:\react-projects\pamyat_vekov\src\components\info" />
+      <recent name="D:\react-projects\pamyat_vekov\src\components\Main" />
+      <recent name="D:\react-projects\pamyat_vekov\src\components\provinces" />
+      <recent name="D:\react-projects\pamyat_vekov\src\components\header" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d71f5197-b6d4-4c38-a6eb-a7f3d23543d6" name="Default Changelist" comment="" />
+      <created>1579659405313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579659405313</updated>
+      <workItem from="1579659407588" duration="15878000" />
+      <workItem from="1579682417389" duration="9780000" />
+      <workItem from="1579723149296" duration="639000" />
+      <workItem from="1579782154444" duration="2004000" />
+      <workItem from="1579804855575" duration="339000" />
+      <workItem from="1579805752363" duration="507000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="272" y="23" key="#ESLint" timestamp="1579782257445">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="272" y="23" key="#ESLint/0.0.1360.728@0.0.1360.728" timestamp="1579782257445" />
+    <state x="431" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579684536849">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="431" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1579684536849" />
+    <state x="410" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579659960500">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="410" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1360.728@0.0.1360.728" timestamp="1579659960500" />
+    <state x="305" y="0" key="CommitChangelistDialog2" timestamp="1579806473503">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="305" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1579806473503" />
+    <state x="376" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1579805757053">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="376" y="189" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1579805757053" />
+    <state x="336" y="162" key="run.anything.popup" timestamp="1579690956700">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="336" y="162" key="run.anything.popup/0.0.1360.728@0.0.1360.728" timestamp="1579690956700" />
+  </component>
+</project>
