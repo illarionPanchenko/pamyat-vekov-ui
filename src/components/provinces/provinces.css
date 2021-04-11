@@ -1,0 +1,18 @@
+.provWidth {
+    width: 60%;
+}
+.provinces{
+    margin-top: 20px;
+    font-family: 'Pattaya', sans-serif;
+}
+@media screen and (max-width: 1100px) {
+    .provWidth {
+        width: 90%;
+    }
+    .lobster{
+        font-size: 70px;
+    }
+    .gub{
+        font-size: 60px;
+    }
+}

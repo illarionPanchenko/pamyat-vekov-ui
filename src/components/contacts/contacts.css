@@ -1,0 +1,31 @@
+form {
+  width: 60%;
+}
+
+.message {
+  resize: none;
+}
+.h3{
+  font-family: 'Courgette', cursive;
+}
+.img{
+  width: 40px;
+}
+@media(max-width: 1100px) {
+  form {
+    width: 90%;
+  }
+  .form-control{
+   font-size: 50px;
+  }
+  .btn-primary{
+    width: 40%;
+    font-size: 50px;
+  }
+  .h3{
+    font-size: 50px;
+  }
+  .img{
+    width: 80px;
+  }
+}
