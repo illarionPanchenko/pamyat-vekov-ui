@@ -133,15 +133,15 @@ class Provinces extends Component {
         //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         return(
             <div>
-                {/*<h1 className='provinces'>*/}
-                {/*    {this.props.lang === 'RU' ? 'Губернии' : this.props.lang === 'EN' ? 'Governorates' : 'Губернії'}*/}
-                {/*</h1>*/}
-                <h3 className='provinces'>
-                    {this.props.lang === 'RU' ? 'Границы губерний на 1900 г.' : this.props.lang === 'EN' ? 'Borders of the governorates in 1900' : 'Кордони губерній на 1900 р.'}
-                </h3>
-                <div style={{width: '100%', display: 'flex', justifyContent: 'center'}}>
-                    <img style={{width: '40%'}} src={Map}/>
-                </div>
+                <h1 className='provinces'>
+                    {this.props.lang === 'RU' ? 'Губернии' : this.props.lang === 'EN' ? 'Governorates' : 'Губернії'}
+                </h1>
+                {/*<h3 className='provinces'>*/}
+                {/*    {this.props.lang === 'RU' ? 'Границы губерний на 1900 г.' : this.props.lang === 'EN' ? 'Borders of the governorates in 1900' : 'Кордони губерній на 1900 р.'}*/}
+                {/*</h3>*/}
+                {/*<div style={{width: '100%', display: 'flex', justifyContent: 'center'}}>*/}
+                {/*    <img style={{width: '40%'}} src={Map}/>*/}
+                {/*</div>*/}
                 <ul className='list-group' style={{display:'flex', justifyContent: 'center', alignItems: 'center'}}>
                     {data}
                 </ul>

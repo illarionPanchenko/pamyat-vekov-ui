@@ -1,9 +1,9 @@
 import React from "react";
 import '../Main/Main.css'
-import {useSelector} from "react-redux";
+// import {useSelector} from "react-redux";
 
 export const Info = () => {
-    const lang = useSelector(state=>state);
+    // const lang = useSelector(state=>state);
     return(
         <div className='frame-text'>
         <div className='Main'>

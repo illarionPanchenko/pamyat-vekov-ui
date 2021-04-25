@@ -3,6 +3,7 @@
 }
 .provinces{
     margin-top: 20px;
+    margin-bottom: 50px;
     font-family: 'Pattaya', sans-serif;
 }
 @media screen and (max-width: 1100px) {
