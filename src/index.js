@@ -5,7 +5,6 @@ import App from './App';
 import { createStore } from 'redux'
 import { Provider } from 'react-redux'
 
-// redux setup
 function reducer(state = 'RU', action) {
     if (action.type === 'changeLang') {
         return action.payload
